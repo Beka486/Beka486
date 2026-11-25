@@ -69,25 +69,22 @@ Leveling up across AI, software engineering and game dev — shipping new projec
 
 <sub>06</sub> **ACTIVITY**
 
-<img align="right" width="190" src="./assets/crystal.svg" alt="Floating pixel-art crystal" />
-
-<p align="left">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Beka486&theme=dark&hide_border=true&background=0D1117&ring=A77BFF&fire=4F8CFF&currStreakNum=E6EDF3&currStreakLabel=8AB4FF&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Beka486&hide_border=true&background=FFFFFF&ring=7C5CFF&fire=4F8CFF&currStreakNum=1F2328&currStreakLabel=4F6BFF&sideNums=1F2328&sideLabels=424A53&dates=6E7781&stroke=D0D7DE" />
     <img width="495" src="https://streak-stats.demolab.com?user=Beka486&theme=dark&hide_border=true&background=0D1117&ring=A77BFF&fire=4F8CFF&currStreakNum=E6EDF3&currStreakLabel=8AB4FF&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub contribution streak: total contributions, current streak and longest streak" />
   </picture>
+  <img width="160" src="./assets/crystal.svg" alt="Floating pixel-art crystal" />
 </p>
 
-<p align="left">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beka486/Beka486/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beka486/Beka486/output/github-snake.svg" />
-    <img width="495" src="https://raw.githubusercontent.com/Beka486/Beka486/output/github-snake-dark.svg" alt="Animated snake eating real GitHub contribution cells" />
+    <img width="100%" src="https://raw.githubusercontent.com/Beka486/Beka486/output/github-snake-dark.svg" alt="Animated snake eating real GitHub contribution cells" />
   </picture>
 </p>
-
-<br clear="right" />
 
 Open to collaboration in AI, game development and developer tools — let's build something that feels great to use.
 
