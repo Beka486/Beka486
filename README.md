@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Beka486&label=PROFILE+VIEWS&color=7C5CFF&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MrHarry1&label=PROFILE+VIEWS&color=7C5CFF&style=flat-square" alt="Profile views" />
 </p>
 
 <sub>01</sub> **ABOUT**
@@ -42,13 +42,13 @@ I love turning bold ideas into real products and taking them all the way: solid 
 
 <sub>04</sub> **SELECTED WORK**
 
-[AuditEnv](https://github.com/Beka486/audit-rl-env)<br />
+[AuditEnv](https://github.com/MrHarry1/audit-rl-env)<br />
 Reproducible reinforcement-learning environment for training AI financial auditors — synthetic ledgers with hidden booking errors, five investigation tools and an evidence-based reward from an isolated grader. Pure Python standard library: no network, no GPU, no paid APIs.
 
-[Aqbobek AI Agent](https://github.com/Beka486/AIS_HACK-3.0)<br />
+[Aqbobek AI Agent](https://github.com/MrHarry1/AIS_HACK-3.0)<br />
 Built at AIS Hack 3.0 (HealthTech & RPA track) — an external AI/RPA agent shipped as a Chrome extension (Manifest V3) that operates a mock clinical information system directly through the DOM.
 
-[Premium URL Shortener](https://github.com/Beka486/Premium-URL-Shortener-)<br />
+[Premium URL Shortener](https://github.com/MrHarry1/Premium-URL-Shortener-)<br />
 A clean, premium-styled link shortener interface built with HTML & CSS.
 
 <details>
@@ -71,18 +71,18 @@ Leveling up across AI, software engineering and game dev — shipping new projec
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Beka486&theme=dark&hide_border=true&background=0D1117&ring=A77BFF&fire=4F8CFF&currStreakNum=E6EDF3&currStreakLabel=8AB4FF&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Beka486&hide_border=true&background=FFFFFF&ring=7C5CFF&fire=4F8CFF&currStreakNum=1F2328&currStreakLabel=4F6BFF&sideNums=1F2328&sideLabels=424A53&dates=6E7781&stroke=D0D7DE" />
-    <img width="495" src="https://streak-stats.demolab.com?user=Beka486&theme=dark&hide_border=true&background=0D1117&ring=A77BFF&fire=4F8CFF&currStreakNum=E6EDF3&currStreakLabel=8AB4FF&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub contribution streak: total contributions, current streak and longest streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MrHarry1&theme=dark&hide_border=true&background=0D1117&ring=A77BFF&fire=4F8CFF&currStreakNum=E6EDF3&currStreakLabel=8AB4FF&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MrHarry1&hide_border=true&background=FFFFFF&ring=7C5CFF&fire=4F8CFF&currStreakNum=1F2328&currStreakLabel=4F6BFF&sideNums=1F2328&sideLabels=424A53&dates=6E7781&stroke=D0D7DE" />
+    <img width="495" src="https://streak-stats.demolab.com?user=MrHarry1&theme=dark&hide_border=true&background=0D1117&ring=A77BFF&fire=4F8CFF&currStreakNum=E6EDF3&currStreakLabel=8AB4FF&sideNums=E6EDF3&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub contribution streak: total contributions, current streak and longest streak" />
   </picture>
   <img width="160" src="./assets/crystal.svg" alt="Floating pixel-art crystal" />
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Beka486/Beka486/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Beka486/Beka486/output/github-snake.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/Beka486/Beka486/output/github-snake-dark.svg" alt="Animated snake eating real GitHub contribution cells" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrHarry1/MrHarry1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrHarry1/MrHarry1/output/github-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/MrHarry1/MrHarry1/output/github-snake-dark.svg" alt="Animated snake eating real GitHub contribution cells" />
   </picture>
 </p>
 
